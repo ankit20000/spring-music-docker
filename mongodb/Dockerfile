@@ -1,6 +1,6 @@
 # MongoDB image with host-based data volume
 
-FROM mongo:latest
+FROM mongo:8.0.5
 
 MAINTAINER Gary A. Stafford <garystafford@rochester.rr.com>
 ENV REFRESHED_AT 2016-07-30
