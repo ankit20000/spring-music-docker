@@ -1,6 +1,6 @@
 # NGINX image with build artifact
 
-FROM nginx:latest
+FROM nginx:1.29.4-trixie
 
 MAINTAINER Gary A. Stafford <garystafford@rochester.rr.com>
 ENV REFRESHED_AT 2016-09-17
